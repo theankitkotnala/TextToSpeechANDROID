@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/speechToText/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ankit/.android/build-cache/5020f719196f586b139316dbaec37720e3eb1615/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/speechToText/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ankit/.android/build-cache/5020f719196f586b139316dbaec37720e3eb1615/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/speechToText/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ankit/.android/build-cache/5020f719196f586b139316dbaec37720e3eb1615/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/speechToText/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ankit/.android/build-cache/5020f719196f586b139316dbaec37720e3eb1615/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
